@@ -1,6 +1,6 @@
 # Ryzhkov Aleksandr 
 
-<img src="images/IMG_20200624_230713.jpg" width="200"/>
+<img src="images/foto.jpg" width="200"/>
      
 ## Contact: 
 - E-mail: airyzhkov@yandex.ru  
